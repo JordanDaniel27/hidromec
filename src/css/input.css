@@ -25,6 +25,7 @@
   @apply absolute top-[50px] lg:top-0 right-[33%] md:right-[40%]  lg:-right-[100px] z-[1000];
 }
 
+/* modificar el color segun la pagina */
 .swiper-pagination-bullet-active {
   @apply !bg-[#222A51];
 }
